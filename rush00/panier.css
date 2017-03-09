@@ -1,0 +1,12 @@
+#tab
+{
+	text-align: center;
+	width: 150px;
+	background-color: #CC5599;
+}
+#tableau
+{
+	background-color: #CC9999;
+	width: 50%;
+	border: 2px solid;
+}

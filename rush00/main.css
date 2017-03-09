@@ -1,0 +1,93 @@
+body
+{
+	height: 99%;
+	width:auto;
+	background-color: #AAAAAA;
+}
+#title
+{
+	background-color: #777777;
+	text-align: center;
+	font-size: 1.5vw;
+	height: auto;
+	width: auto;
+	font-style: normal;
+}
+#ident
+{
+	position: absolute;
+	margin-right: 2px;
+	margin-top: 2px;
+}
+#panier:hover
+{	transition: all 0.3s ease-in;
+	background-color: #999999;
+}
+#panier
+{
+	background-color: #666666;
+	transition: background 0.3s;
+}
+#identification
+{
+	margin-top: 50%;
+	transition: background 0.3s;
+	position: relative;
+}
+#identification:hover
+{
+	transition: all 0.3s ease-in;
+	background-color: #888888;
+}
+#creation_compte
+{
+	transition: background 0.3s;
+	position: relative;
+	margin-top: 50%;
+}
+#creation_compte:hover
+{
+	transition: all 0.3s ease-in;
+	background-color: #888888;
+}
+#left_tab
+{
+	min-width: 100px;
+	min-height: 600px;
+	position: absolute;
+	transition: background 0.3s;
+	background-color: #555555;
+	border-radius: 5px;
+	width: 12%;
+	height: 70%;
+}
+#items
+{
+	min-width: 400px;
+	border-radius: 5px;
+	margin-left: 14%;
+	position: absolute;;
+	transition: background 0.3s;
+	background-color: #FFFFFF;
+	height: 70%;
+	width: 75%;
+}
+#achat
+{
+	margin: auto;
+}
+
+#table
+{
+	background-color: red;
+}
+td
+{
+	height: 40px;
+	width: 60px;
+}
+#show
+{
+	background-color: #EEEEEE;
+	border: 2px solid;
+}
